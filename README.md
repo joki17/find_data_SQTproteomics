@@ -9,9 +9,9 @@ ProLuCID 1.4.2 in SQT format.
 
 Python code reads through the SQT txt file, was HTML converted to a txt. 
 
-Example data is provided as, HTMLcontains_Data.txt
-
-Example output is test_proteomics.csv
+Example data and example output is provided in a zip file.  
+Example data is: HTMLcontains_Data.txt (52.5 MB)
+Example output is: test_proteomics.csv (340 KB)
 
 
 
